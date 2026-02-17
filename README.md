@@ -43,10 +43,10 @@ Meu foco é criar aplicações de **Alta Performance**, otimizadas para SEO e de
   <a href="https://wa.me/5541996930084" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" />
   </a> 
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI" target="_blank">
+  <a href="www.linkedin.com/in/andrey-do-vale/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a> 
-  <a href="mailto:seuemail@gmail.com">
+  <a href="mailto:andreyribeiro505@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
 </div>
