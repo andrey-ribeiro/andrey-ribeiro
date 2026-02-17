@@ -31,8 +31,8 @@ Meu foco é criar aplicações de **Alta Performance**, otimizadas para SEO e de
 ### 📊 GitHub Stats
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrey-ribeiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrey-ribeiro&layout=compact&theme=dark"/>
   </a>
 </div>
 
@@ -43,7 +43,7 @@ Meu foco é criar aplicações de **Alta Performance**, otimizadas para SEO e de
   <a href="https://wa.me/5541996930084" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" />
   </a> 
-  <a href="www.linkedin.com/in/andrey-do-vale/" target="_blank">
+  <a href="https://www.linkedin.com/in/andrey-do-vale/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a> 
   <a href="mailto:andreyribeiro505@gmail.com">
