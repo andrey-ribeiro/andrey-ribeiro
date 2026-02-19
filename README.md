@@ -32,16 +32,6 @@ Performance não é um "adicional". É **obrigação**.
 
 ---
 
-### 📊 Performance no GitHub
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrey-ribeiro&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Andrey Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrey-ribeiro&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
-  </a>
-</div>
-
----
-
 ### 🤝 Vamos falar de negócios?
 <div align="center">
   <a href="https://portfolio-ashen-iota-67.vercel.app/" target="_blank">
