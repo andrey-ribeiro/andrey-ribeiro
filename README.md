@@ -44,6 +44,9 @@ Performance não é um "adicional". É **obrigação**.
 
 ### 🤝 Vamos falar de negócios?
 <div align="center">
+  <a href="https://portfolio-ashen-iota-67.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-ONLINE-%23000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Site Oficial" />
+  </a>
   <a href="https://wa.me/5541996930084" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a> 
