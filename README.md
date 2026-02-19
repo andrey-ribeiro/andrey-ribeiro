@@ -35,8 +35,8 @@ Performance não é um "adicional". É **obrigação**.
 ### 📊 Performance no GitHub
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrey-ribeiro&show_icons=true&theme=radical&hide_border=true" alt="Andrey Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrey-ribeiro&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrey-ribeiro&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Andrey Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrey-ribeiro&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
   </a>
 </div>
 
@@ -47,12 +47,15 @@ Performance não é um "adicional". É **obrigação**.
   <a href="https://portfolio-ashen-iota-67.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-ONLINE-%23000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Site Oficial" />
   </a>
+
   <a href="https://wa.me/5541996930084" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a> 
+  
   <a href="https://www.linkedin.com/in/andrey-do-vale/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a> 
+  
   <a href="mailto:andreyribeiro505@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
